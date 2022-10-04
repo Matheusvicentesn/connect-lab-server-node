@@ -3,7 +3,7 @@
 API Node usando [express](https://expressjs.com/pt-br/)
 Para utilizar o mongo pode ser criado utilizando o [MongoDB](https://www.mongodb.com/)
 
-A API está disponível para teste em [ConnectLab](https://connectlab.onrender.com/)
+A API está disponível para teste em [ConnectLab](https://connectlabapi.onrender.com)
 
 ## Primeiros passos
 
